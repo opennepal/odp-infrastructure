@@ -1,63 +1,63 @@
-District,District Headquarter,Length
-Taplejung,Taplejung,835.3
-Panchthar,Phidim,748.8
-Illam,Illam,681.88
-Jhapa,Chandragadhi,612.72
-Terathum,Terathum,655.12
-Dhankuta,Dhankuta,594.2
-Morang,Biratnagar,548.77
-Sunsari,Inaruwa,507.91
-Okhaldhunga,Okhaldunga,507.79
-Udayapur,Gaighat,453.25
-Saptari,Rajbiraj,457.23
-Siraha,Siraha,417.15
-Sindhuli,Sindhulimadi,387
-Dhanusa,Janakpur,381.82
-Mohottari,Jaleswor,397.76
-Sarlahi,Malangawa,344.16
-Rautahat,Gaur,334.61
-Bara,Kalaiya,283.55
-Parsa,Birgunj,276.12
-Makwanpur,Hetauda,221.01
-Nuwakot,Bidur,70
-Rasuwa,Dhunche,118.26
-Kavre,Dhulikhel,30
-Sindhupalchok,Chautara,84.21
-Dolakha,Charikot,131.72
-Dhanding,Dhanding,85.16
-Chitwan,Bharatpur,146.2
-Lalitpur,Lalitpur,3
-Ramechhap,Manthali,188.92
-Myagdi,Beni,288.55
-Gorkha,Gorkha,140.48
-Lamjung,Besishahar,175.87
-Tanahun,Damauli,150.05
-Kaski,Pokhara,198.55
-Parbat,Kusma,251.55
-Baglung,Baglung,271.13
-Syangja,Syangja,235.67
-Palpa,Tansen(via Butwal),299.47
-Gulmi,Tamghas(via Butwal),375.06
-Rupandehi,Bhairahawa(via  Butwal),278.41
-Nawalparasi,Parasi,245.85
-Kapilbastu,Taulihawa,309.14
-Argakhachi,Sandhikharka,374.87
-Dang,Gorahi,409.23
-Salyan,Salyan,495.66
-Pyuthan,Pyuthan,427.73
-Rolpa,Liwang,467.09
-Surkhet,Surkhet,580.41
-Banke,Nepalgunj,510.07
-Bardiya,Gulariya,543.4
-Kailali,Dhangadhi,664.42
-Dadeldhura,Dadeldhura,769.72
-Doti,Silgadhi,832.66
-Baitadi,Baitadi,854.53
-Kanchanpur,Mahendranagar,692.31
-Bhaktapur,Bhaktapur(Suryabinayak),14
-Dailekh,Dailekh,647.41
-Achham,Mangalsen,938.16
-Rukum,Musikot(via Ghorahi),571.86
-Kalikot,Manma,738.8
-Jumla,Jumla Khalanga,817.8
-Darchula,Darchula,960.86
+District,Zone,Geographical Region,Development Region,District Headquarter,Length
+Taplejung,Mechi,Mountain,Eastern,Taplejung,835.3
+Panchthar,Mechi,Hill,Eastern,Phidim,748.8
+Ilam,Mechi,Hill,Eastern,Illam,681.88
+Jhapa,Mechi,Terai,Eastern,Chandragadhi,612.72
+Terhathum,Kosi,Hill,Eastern,Terathum,655.12
+Dhankuta,Kosi,Hill,Eastern,Dhankuta,594.2
+Morang,Kosi,Terai,Eastern,Biratnagar,548.77
+Sunsari,Kosi,Terai,Eastern,Inaruwa,507.91
+Okhaldhunga,Sagarmatha,Hill,Eastern,Okhaldunga,507.79
+Udayapur,Sagarmatha,Hill,Eastern,Gaighat,453.25
+Saptari,Sagarmatha,Terai,Eastern,Rajbiraj,457.23
+Siraha,Sagarmatha,Terai,Eastern,Siraha,417.15
+Sindhuli,Janakpur,Hill,Central,Sindhulimadi,387.0
+Dhanusa,Janakpur,Terai,Central,Janakpur,381.82
+Mahottari,Janakpur,Terai,Central,Jaleswor,397.76
+Sarlahi,Janakpur,Terai,Central,Malangawa,344.16
+Rautahat,Narayani,Terai,Central,Gaur,334.61
+Bara,Narayani,Terai,Central,Kalaiya,283.55
+Parsa,Narayani,Terai,Central,Birgunj,276.12
+Makwanpur,Narayani,Hill,Central,Hetauda,221.01
+Nuwakot,Bagmati,Hill,Central,Bidur,70.0
+Rasuwa,Bagmati,Mountain,Central,Dhunche,118.26
+Kavre,Bagmati,Hill,Central,Dhulikhel,30.0
+Sindhupalchok,Bagmati,Mountain,Central,Chautara,84.21
+Dolakha,Janakpur,Mountain,Central,Charikot,131.72
+Dhading,Bagmati,Hill,Central,Dhanding,85.16
+Chitawan,Narayani,Terai,Central,Bharatpur,146.2
+Lalitpur,Bagmati,Hill,Central,Lalitpur,3.0
+Ramechhap,Janakpur,Hill,Central,Manthali,188.92
+Myagdi,Dhawalagiri,Hill,Western,Beni,288.55
+Gorkha,Gandaki,Hill,Western,Gorkha,140.48
+Lamjung,Gandaki,Hill,Western,Besishahar,175.87
+Tanahu,Gandaki,Hill,Western,Damauli,150.05
+Kaski,Gandaki,Hill,Western,Pokhara,198.55
+Parbat,Dhawalagiri,Hill,Western,Kusma,251.55
+Baglung,Dhawalagiri,Hill,Western,Baglung,271.13
+Syangja,Gandaki,Hill,Western,Syangja,235.67
+Palpa,Lumbini,Hill,Western,Tansen(via Butwal),299.47
+Gulmi,Lumbini,Hill,Western,Tamghas(via Butwal),375.06
+Rupandehi,Lumbini,Terai,Western,Bhairahawa(via  Butwal),278.41
+Nawalparasi,Lumbini,Terai,Western,Parasi,245.85
+Kapilbastu,Lumbini,Terai,Western,Taulihawa,309.14
+Arghakhanchi,Lumbini,Hill,Western,Sandhikharka,374.87
+Dang,Rapti,Terai,Mid-Western,Gorahi,409.23
+Salyan,Rapti,Hill,Mid-Western,Salyan,495.66
+Pyuthan,Rapti,Hill,Mid-Western,Pyuthan,427.73
+Rolpa,Rapti,Hill,Mid-Western,Liwang,467.09
+Surkhet,Bheri,Hill,Mid-Western,Surkhet,580.41
+Banke,Bheri,Terai,Mid-Western,Nepalgunj,510.07
+Bardiya,Bheri,Terai,Mid-Western,Gulariya,543.4
+Kailali,Seti,Terai,Far-Western,Dhangadhi,664.42
+Dadeldhura,Mahakali,Hill,Far-Western,Dadeldhura,769.72
+Doti,Seti,Hill,Far-Western,Silgadhi,832.66
+Baitadi,Mahakali,Hill,Far-Western,Baitadi,854.53
+Kanchanpur,Mahakali,Terai,Far-Western,Mahendranagar,692.31
+Bhaktapur,Bagmati,Hill,Central,Bhaktapur(Suryabinayak),14.0
+Dailekh,Bheri,Hill,Mid-Western,Dailekh,647.41
+Achham,Seti,Hill,Far-Western,Mangalsen,938.16
+Rukum,Rapti,Hill,Mid-Western,Musikot(via Ghorahi),571.86
+Kalikot,Karnali,Mountain,Mid-Western,Manma,738.8
+Jumla,Karnali,Mountain,Mid-Western,Jumla Khalanga,817.8
+Darchaula,Mahakali,Mountain,Far-Western,Darchula,960.86
